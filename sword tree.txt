@@ -1,0 +1,11 @@
+Swords.  4 points to spend on tree
+
+
+
+                  sword spec
+              /              \
+T1          + damage         + accurr
+           /                       \
+T2       powerattack             stablestrike
+        /       \                /            \      
+T3  doublestrike   weapblock    fastattack    quickswap
